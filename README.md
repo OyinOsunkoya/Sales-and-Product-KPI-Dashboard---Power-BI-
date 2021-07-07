@@ -15,12 +15,12 @@ Data is provided by Microsoft, and can be downloaded [here](https://docs.microso
 To be updated
 
 ## Key Insights from Dashboard
-![Screenshot of Summary Report](SummaryPage.jpg)<br><br>
+![Screenshot of Summary Report](SummaryPage.JPG)<br><br>
 **Summary Report**
 1. The company has been growing in terms of Revenue, Profit and Order Volume.<br>
 2. The USA and Australia are the largest markets for the Company, being the major sources of Revenue and Order Volume.<br>
 3. Accessories is the category with the major source of Revenue for the company.<br><br>
 
-![Screenshot of Product Report](ProductReport.jpg)<br><br>
+![Screenshot of Product Report](ProductReport.JPG)<br><br>
 **Product Report**
 1. The profit, order volume and their 6 months forecast for the selected products can be viewed. Multiple selection is allowed.
