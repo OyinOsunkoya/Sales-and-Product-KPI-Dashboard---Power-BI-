@@ -23,5 +23,5 @@ To be updated
 
 ![Screenshot of Product Report](ProductReport.JPG)<br><br>
 **Product Report**
-1. The effect of price change on the firm's profit can be seen. 
+1. The effect of price change on the firm's profit can be seen for the selected product category. 
 2. The order volume and its 6 months forecast for the selected products can be viewed. Multiple selection of Product categories/ subcategories/ product is allowed.
