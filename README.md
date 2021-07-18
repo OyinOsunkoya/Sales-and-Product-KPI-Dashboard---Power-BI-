@@ -23,4 +23,5 @@ To be updated
 
 ![Screenshot of Product Report](ProductReport.JPG)<br><br>
 **Product Report**
-1. The profit, order volume and their 6 months forecast for the selected products can be viewed. Multiple selection is allowed.
+1. The effect of price change on the firm's profit can be seen. Lower 
+2. The order volume and its 6 months forecast for the selected products can be viewed. Multiple selection of Product categories/ subcategories/ product is allowed.
